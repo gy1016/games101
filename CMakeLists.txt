@@ -6,5 +6,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_subdirectory(00)
 add_subdirectory(01)
+add_subdirectory(02)
 
-install(TARGETS 00 01 DESTINATION output)
+install(TARGETS 00 01 02 DESTINATION output)
