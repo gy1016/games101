@@ -20,6 +20,7 @@
     "openglsupport": "cpp",
     "specialfunctions": "cpp",
     "splines": "cpp",
-    "dense": "cpp"
+    "dense": "cpp",
+    "iostream": "cpp"
   }
 }
